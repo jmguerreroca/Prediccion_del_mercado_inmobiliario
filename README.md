@@ -2,7 +2,7 @@
 
 A lo largo de este trabajo se ha desarrollado una serie de modelos que nos permiten llevar a cabo una estimación del precio de una vivienda en función de sus características. Aunque el desarrollo está pensado de forma puramente académica, si seguimos los siguientes pasos podemos utilizar los modelos para llevar a cabo nuestras propias estimaciones a partir de estos:
 
-- Descargar el modelo deseado de la carpeta MODELOS_FINALES.
+- Descargar el modelo deseado de la carpeta MODELOS.
 
 - Abrir un entorno de python (los modelos han sido entrenados con la versión 3.11), y dentro de este instalar pandas, keras y tensorflow.
 
